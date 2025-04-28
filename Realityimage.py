@@ -62,3 +62,4 @@ if st.button("Generate Image"):
             st.image(image_url, caption="Generated Image", use_column_width=True)
     else:
         st.warning("Please enter a prompt before clicking the 'Generate Image' button.")
+
